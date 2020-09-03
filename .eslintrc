@@ -1,5 +1,6 @@
 {
   "env": {
+    "jest": true,
     "browser": true,
     "es2020": true,
     "react-native/react-native": true
@@ -18,7 +19,7 @@
     "ecmaVersion": 12,
     "sourceType": "module"
   },
-  "plugins": ["react", "react-native", "@typescript-eslint"],
+  "plugins": ["jest", "react", "react-native", "@typescript-eslint"],
   "rules": {
     "react-native/no-raw-text": 2,
     "react-native/no-inline-styles": 2
