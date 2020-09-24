@@ -15,3 +15,7 @@ This starter scaffolding includes the following helpers:
 - A basic configuration for [prettier](https://prettier.io/).
 - [ESLint](https://eslint.org/) configured and launched on every commit thanks to [husky](https://github.com/typicode/husky)
 - [Jest](https://jestjs.io/en/) and [Testing Library for React Native](https://callstack.github.io/react-native-testing-library/) configured.
+
+## Blog post
+
+[React Native Starter Scaffolding](http://sinplanbsoft.com/blog/starter-scaffolding/)
