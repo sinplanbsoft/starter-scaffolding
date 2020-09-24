@@ -1,4 +1,6 @@
 {
+  "name": "expo-starter-scaffolding",
+  "version": "0.0.2",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
@@ -47,5 +49,16 @@
       "pre-push": "npm run typecheck"
     }
   },
-  "private": true
+  "keywords": [
+    "expo",
+    "template",
+    "react",
+    "react-native"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sinplanbsoft/starter-scaffolding.git"
+  },
+  "license": "MIT",
+  "private": false
 }

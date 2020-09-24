@@ -1,12 +1,12 @@
-<div align="center">
-  <h1>react native (expo) starter scaffolding</h1>
-</div>
+# expo-starter-scaffolding
 
-<hr />
+`starter-scaffolding` is a Typescript Expo managed template which provides a series of libreries needed to help the developmente process.
 
-## About this project
+### Getting started
 
-`starter-scaffolding` is a Typescript Expo managed app and a series of libreries needed to help the developmente process.
+1. Install Expo CLI: `npm install -g expo-cli`
+2. Create an app using the template: `expo init -t expo-starter-scaffolding`
+3. Start having fun
 
 ## More info
 
